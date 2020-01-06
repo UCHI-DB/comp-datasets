@@ -34,10 +34,7 @@ PIDS uses four synthesic datasets in the experiments
 * **Timestamp**      Example: 2014-06-01 23:14:29 4249.12345
 * **Address**        Example: 123 Maple Street,Suite P,Chicago,Cook County,IL,60012
 
-For Phone Number and IPv6 datasets, the value for each field is randomly sampled from available ranges.
-
-The Timestamp dataset is randomly sampled from a 10 year time span, 1970-01-01 to 2069-12-31.
-
-The Address dataset is randomly sampled from an dictionary with 800,000 records.
-
-This repository contains the source code for generating these datasets. 
+For Phone Number and IPv6 datasets, the value for each field is randomly sampled from all available values.  
+The Timestamp dataset is randomly sampled from a 10 year time span, 1970-01-01 to 2069-12-31.  
+The Address dataset is randomly sampled from an dictionary with 800,000 records.  
+This repository contains the source code for generating these datasets.   
