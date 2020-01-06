@@ -30,7 +30,7 @@ Here's a list of data sources the datasets are collected from. Please contact us
 
 PIDS uses four synthesic datasets in the experiments
 * **Phone Number**   Example: (123)456-7890
-* **IPv6**           Example: 1234:5678:90AB:CDEF:1234:5678:90AB:CDEF
+* **IPv6**           Example: 1234:5678:90AB:CDEF:3323:5678:90AB:CDEF
 * **Timestamp**      Example: 2014-06-01 23:14:29 4249.12345
 * **Address**        Example: 123 Maple Street,Suite P,Chicago,Cook County,IL,60012
 
